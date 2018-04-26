@@ -1,0 +1,7 @@
+C:\Users\Rocio-PC\source\repos\ReflexionApp\ReflexionApp\obj\Debug\ReflexionApp.csprojResolveAssemblyReference.cache
+C:\Users\Rocio-PC\source\repos\ReflexionApp\ReflexionApp\obj\Debug\ReflexionApp.csproj.CoreCompileInputs.cache
+C:\Users\Rocio-PC\source\repos\ReflexionApp\ReflexionApp\bin\Debug\ReflexionApp.exe.config
+C:\Users\Rocio-PC\source\repos\ReflexionApp\ReflexionApp\bin\Debug\ReflexionApp.exe
+C:\Users\Rocio-PC\source\repos\ReflexionApp\ReflexionApp\bin\Debug\ReflexionApp.pdb
+C:\Users\Rocio-PC\source\repos\ReflexionApp\ReflexionApp\obj\Debug\ReflexionApp.exe
+C:\Users\Rocio-PC\source\repos\ReflexionApp\ReflexionApp\obj\Debug\ReflexionApp.pdb
